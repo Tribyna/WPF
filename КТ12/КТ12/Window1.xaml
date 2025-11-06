@@ -1,19 +1,20 @@
-﻿<Window x:Class="КТ12.MainWindow"
+﻿<Window x:Class="КТ12.Window1"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:КТ12"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Window1" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btnOpenSecond"
-                Content="Перейти ко второму окну"
+        <Button x:Name="btnOpenFirst"
+                Content="Перейти ко Первому окну"
                 Width="200"
                 Height="50"
                 FontSize="16"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center"
-                Click="btnOpenSecond_Click"/>
+                Click="btnOpenFirst_Click"/>
+
     </Grid>
 </Window>
