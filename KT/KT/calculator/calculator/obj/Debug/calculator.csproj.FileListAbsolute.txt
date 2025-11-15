@@ -1,0 +1,16 @@
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.g.resources
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\niksh\source\repos\Tribyna\WPF\KT\KT\calculator\calculator\obj\Debug\calculator.exe.config
