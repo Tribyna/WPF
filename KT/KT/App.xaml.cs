@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace КТ12
+namespace КТ_WPF
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

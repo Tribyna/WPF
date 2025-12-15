@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace КТ12.Properties
+namespace КТ_WPF.Properties
 {
 
 

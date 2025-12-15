@@ -1,0 +1,16 @@
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF.csproj.AssemblyReference.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\MainWindow.baml
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\MainWindow.g.cs
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\App.g.cs
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF_MarkupCompile.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF.g.resources
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ_WPF.Properties.Resources.resources
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF.csproj.GenerateResource.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF.csproj.CoreCompileInputs.cache
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\bin\Debug\КТ WPF.exe.config
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\bin\Debug\КТ WPF.exe
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\bin\Debug\КТ WPF.pdb
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF_MarkupCompile.lref
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF.exe
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF.pdb
+C:\Users\niksh\source\repos\Tribyna\WPF\КТ WPF\КТ WPF\obj\Debug\КТ WPF.exe.config

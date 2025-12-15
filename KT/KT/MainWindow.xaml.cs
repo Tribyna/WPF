@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace КТ12
+namespace КТ_WPF
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
@@ -23,11 +23,6 @@ namespace КТ12
         public MainWindow()
         {
             InitializeComponent();
-        }
-        private void btnOpenSecond_Click(object sender, RoutedEventArgs e)
-        {
-            Window1 window1 = new Window1();
-            window1.Show();
         }
     }
 }
